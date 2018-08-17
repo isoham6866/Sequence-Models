@@ -1,1 +1,3 @@
 # Sequence-Models
+
+Recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs. Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation. Sequence models can be augmented using an attention mechanism. This algorithm will help model understand where it should focus its attention given a sequence of inputs. Learning about speech recognition and dealing with audio data.
